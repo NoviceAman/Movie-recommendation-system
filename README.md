@@ -42,6 +42,10 @@ To use the Movie Recommender System:
   
 - **Enhanced User Interface**: Continuously improve the user interface to provide a seamless and visually appealing experience for users.
 
+## Webapp Preview
+
+<img src="template.jpg">
+
 
 ## Installation
 
